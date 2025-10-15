@@ -1,0 +1,14 @@
+C:\Users\baloglan\Desktop\C# task\c# class oop\c# class oop\bin\Debug\net8.0\c# class oop.exe
+C:\Users\baloglan\Desktop\C# task\c# class oop\c# class oop\bin\Debug\net8.0\c# class oop.deps.json
+C:\Users\baloglan\Desktop\C# task\c# class oop\c# class oop\bin\Debug\net8.0\c# class oop.runtimeconfig.json
+C:\Users\baloglan\Desktop\C# task\c# class oop\c# class oop\bin\Debug\net8.0\c# class oop.dll
+C:\Users\baloglan\Desktop\C# task\c# class oop\c# class oop\bin\Debug\net8.0\c# class oop.pdb
+C:\Users\baloglan\Desktop\C# task\c# class oop\c# class oop\obj\Debug\net8.0\c# class oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baloglan\Desktop\C# task\c# class oop\c# class oop\obj\Debug\net8.0\c# class oop.AssemblyInfoInputs.cache
+C:\Users\baloglan\Desktop\C# task\c# class oop\c# class oop\obj\Debug\net8.0\c# class oop.AssemblyInfo.cs
+C:\Users\baloglan\Desktop\C# task\c# class oop\c# class oop\obj\Debug\net8.0\c# class oop.csproj.CoreCompileInputs.cache
+C:\Users\baloglan\Desktop\C# task\c# class oop\c# class oop\obj\Debug\net8.0\c# class oop.dll
+C:\Users\baloglan\Desktop\C# task\c# class oop\c# class oop\obj\Debug\net8.0\refint\c# class oop.dll
+C:\Users\baloglan\Desktop\C# task\c# class oop\c# class oop\obj\Debug\net8.0\c# class oop.pdb
+C:\Users\baloglan\Desktop\C# task\c# class oop\c# class oop\obj\Debug\net8.0\c# class oop.genruntimeconfig.cache
+C:\Users\baloglan\Desktop\C# task\c# class oop\c# class oop\obj\Debug\net8.0\ref\c# class oop.dll
