@@ -16,8 +16,40 @@ namespace c__class_oop
             //    qiymetler = "2, 0, -1"
             //};
             //sagird1.Melumat();
-            MehledeQalanQaqas qaqas1 = new MehledeQalanQaqas("baloglan", 23);
-            Console.WriteLine($"{qaqas1.qaqasinAdi} yaxsi insandi, yasidaki : {qaqas1.qaqasinYasi} , {qaqas1.qaqasinHeyati}");
+            //qaqas class
+            //MehledeQalanQaqas qaqas1 = new MehledeQalanQaqas("baloglan", 23);
+            //Console.WriteLine($"{qaqas1.qaqasinAdi} yaxsi insandi, yasidaki : {qaqas1.qaqasinYasi} , {qaqas1.qaqasinHeyati}");
+            //array sorting
+            Console.WriteLine("String sort numune:");
+            ArraySorting();
+            Console.WriteLine("Int sort numune:");
+            ArraySortingInt();
+            static void ArraySorting()
+            {
+                string[] words = { "yerpenek", "telefon", "raket", "nietchze felsefesi" };
+
+                Array.Sort(words);
+
+                Console.WriteLine("siraya duzulmus sozler:");
+
+                foreach (string word in words)
+                {
+                    Console.WriteLine(word);
+                }
+
+
+
+            }
+            static void ArraySortingInt()
+            {
+                int[] numbers = { 5, 3, 8, 1, 4 };
+                Array.Sort(numbers);
+                Console.WriteLine("siraya duzulmus ededler:");
+                foreach (int number in numbers)
+                {
+                    Console.WriteLine(number);
+                }
+            }
         }
         //sade class
         //class sagirdinformasiya
